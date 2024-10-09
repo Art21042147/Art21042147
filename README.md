@@ -8,7 +8,8 @@
 )
 ![Static Badge](https://img.shields.io/badge/Flask-passing?logo=flask&logoColor=%2300501E&labelColor=%23FFFFFF&color=%23175871&cacheSeconds=%23175871)
 ![Static Badge](https://img.shields.io/badge/Alchemy-passing?style=flat&label=SQL&labelColor=whight&color=%23BF3030)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-passing?logo=postgresql&logoColor=%23057D9F&labelColor=%23FFFFFF&color=%23057D9F)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-passing?logo=postgresql&logoColor=%23FFFFFF&labelColor=%20%233779AB&color=%23FFFFFF
+)
 
 
 
