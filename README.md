@@ -6,5 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/FastAPI-passing?logo=fastapi&logoColor=%23009999%09&labelColor=%23FFFFFF&color=%23009999%09)
 ![Static Badge](https://img.shields.io/badge/django-passing?logo=django&logoColor=%2300501E&labelColor=%23FFFFFF&color=%2300501E&cacheSeconds=%2300501E
 )
+![Static Badge](https://img.shields.io/badge/Flask-passing?logo=flask&logoColor=%2300501E&labelColor=%23FFFFFF&color=%23175871&cacheSeconds=%23175871)
+
 
 
