@@ -10,6 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/Alchemy-passing?style=flat&label=SQL&labelColor=whight&color=%23BF3030)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-passing?logo=postgresql&logoColor=%23FFFFFF&labelColor=%20%233779AB&color=%23FFFFFF
 )
+![Static Badge](https://img.shields.io/badge/docker-passing?style=flat&logo=docker&logoColor=%233258B0&labelColor=%23FFFFFF&color=%233258B0)
 
 
 
