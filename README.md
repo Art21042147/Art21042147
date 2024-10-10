@@ -7,6 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/django-passing?logo=django&logoColor=%2300501E&labelColor=%23FFFFFF&color=%2300501E&cacheSeconds=%2300501E
 )
 ![Static Badge](https://img.shields.io/badge/Flask-passing?logo=flask&logoColor=%2300501E&labelColor=%23FFFFFF&color=%23175871&cacheSeconds=%23175871)
+![Static Badge](https://img.shields.io/badge/Jinja-passing?logo=jinja&logoColor=%23202020&labelColor=%23FFFFFF&color=%23890202%09)
 ![Static Badge](https://img.shields.io/badge/Alchemy-passing?style=flat&label=SQL&labelColor=whight&color=%23BF3030)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-passing?logo=postgresql&logoColor=%23FFFFFF&labelColor=%20%233779AB&color=%23FFFFFF
 )
