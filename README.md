@@ -9,6 +9,8 @@
 ![Static Badge](https://img.shields.io/badge/Flask-passing?logo=flask&logoColor=%2300501E&labelColor=%23FFFFFF&color=%23175871&cacheSeconds=%23175871)
 ![Static Badge](https://img.shields.io/badge/Jinja-passing?logo=jinja&logoColor=%23202020&labelColor=%23FFFFFF&color=%23890202%09)
 ![Static Badge](https://img.shields.io/badge/Alchemy-passing?style=flat&label=SQL&labelColor=whight&color=%23BF3030)
+![Static Badge](https://img.shields.io/badge/SQLite-passing?logo=sqlite&logoColor=%23437DD4&labelColor=%23FFFFFF&color=%2324577B)
+
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-passing?logo=postgresql&logoColor=%23FFFFFF&labelColor=%20%233779AB&color=%23FFFFFF
 )
 ![Static Badge](https://img.shields.io/badge/docker-passing?style=flat&logo=docker&logoColor=%233258B0&labelColor=%23FFFFFF&color=%233258B0)
