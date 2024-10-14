@@ -12,4 +12,3 @@
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-passing?logo=postgresql&logoColor=%23FFFFFF&labelColor=%20%233779AB&color=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/docker-passing?style=flat&logo=docker&logoColor=%233258B0&labelColor=%23FFFFFF&color=%233258B0)
 ![Static Badge](https://img.shields.io/badge/HTML-bold?logo=html5&logoColor=%23FF3900&labelColor=%23FFFFFF&color=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/JavaScript-passing?logo=javascript&logoColor=%23DBC705&labelColor=%23000000&color=%23DBC705)
