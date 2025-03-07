@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Art21042147/Art21042147/blob/main/kaas.gif" alt="The Unlimited" width="830">
 
-<table border="0" cellspacing="0" align="center">
+<table style="border-collapse: collapse; margin: auto;">
   <tr align="center">
     <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic"></td>
     <td><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=plastic"></td>
