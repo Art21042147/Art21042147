@@ -13,3 +13,4 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-passing?logo=bootstrap&logoColor=%237952B3&labelColor=%23FFFFFF&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/HTML-passing?logo=html5&logoColor=%23FFFFFF&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-passing?logo=css3&logoColor=%23FFFFFF&color=%231572B6)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
