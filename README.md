@@ -16,4 +16,5 @@
   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=plastic">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic"
 </p>
